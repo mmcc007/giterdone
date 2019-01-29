@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+  <testsuite name="fastlane.lanes">
+    
+    
+    
+      
+      <testcase classname="fastlane.lanes" name="0: opt_out_usage" time="0.008854">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="1: setup_travis" time="0.001527">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="2: default_platform" time="0.000811">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="3: Switch to ios get_build_name_and_build_number lane" time="0.000893">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="4: ../../script/ci-helper --get-build-number travis " time="1.916106">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="5: last_git_tag" time="0.032954">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="6: deliver" time="46.374044">
+        
+      </testcase>
+    
+  </testsuite>
+</testsuites>

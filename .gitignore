@@ -88,9 +88,9 @@ build/
 #ios/fastlane/Matchfile
 
 # fly
-**/fastlane
-/script
-Gemfile*
+#**/fastlane
+#/script
+#Gemfile*
 
 
 # Exceptions to above rules.
