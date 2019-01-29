@@ -86,7 +86,12 @@ build/
 ##android/fastlane/metadata/android/en-US/changelogs/*
 #ios/fastlane/metadata/android/en-US/changelogs
 #ios/fastlane/Matchfile
+
+# fly
 **/fastlane
+/script
+Gemfile*
+
 
 # Exceptions to above rules.
 !**/ios/**/default.mode1v3
